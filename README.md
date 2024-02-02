@@ -1,5 +1,8 @@
-This is a Animal predictor app made by using Transfer learning. Resnet50 is used as the base model for the flask app.
+Guess who?
+    An Animal guessing app made by using the Resnet50 model as the base model. Flask used to create the app and UI. 
 
-Flask is a backend python framework for easily handeling the backend for your created app.
+Flask
+    It is a backend python framework for easily handeling the backend for your created app. It also provides Simple UI as used in the app
 
-You can clone the repo and run it to test the app on your local device
+Installation and Testing
+    Clone the repo and run the model locally to test its usage
